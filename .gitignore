@@ -1,0 +1,6 @@
+.project
+bin/
+.settings/
+.classpath
+src/main/resources/
+target/
